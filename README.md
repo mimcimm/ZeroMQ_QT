@@ -2,7 +2,7 @@
 @author MimCim
 
 
-These mini projects conneting server and client with zeroMq message type in qt framework.
+These mini projects conneting server and client with zeroMq message type in qt framework.\n
 This examle created as outline.
 When I was working on this issue, I also tested and confirmed that int values also sendable unproblematically.
 Also int values can send inside of struct data type and can reachable inside that.
